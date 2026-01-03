@@ -15,6 +15,8 @@ I also have knowledge of **HTML, CSS, and JavaScript**, and I plan to start lear
 ## 🛠️ Skills & Technologies
 - Java
 - Data Structures & Algorithms
+- C
+- C++
 - HTML
 - CSS
 - JavaScript
